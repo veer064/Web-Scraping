@@ -14,3 +14,4 @@ And that will be scraping details like:
 - SKU
 - Sub Categories
 - Categories
+for all the 11 categories.
